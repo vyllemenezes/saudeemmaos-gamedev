@@ -1,4 +1,4 @@
-# gamedev-saudeemmaos
+# Gamedev - Saúde em Mãos
  Projeto Saúde em Mãos - Jogo de combinação de cartas 
 
 O jogo de associação, presente no aplicativo Saúde em Mãos by Hapvida, é uma abordagem inovadora e eficaz para promover o aprendizado em saúde de uma forma lúdica. Neste jogo, os usuários são desafiados a associar alimentos a nutrientes específicos, como banana com potássio
